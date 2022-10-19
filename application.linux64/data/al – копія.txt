@@ -1,0 +1,455 @@
+#f4f4f6 B5200 2401 Snow White  
+#f7f7f9 blanc 2402 White  
+#efe2d2 Ecru Ecru, 2404 Ecru/off-white  
+#93203a 150 509 Red – BRIGHT  
+#f3c1cd 151 607 Pink  
+#e09a93 152 – Tawny – DK  
+#e3c6d5 153 – Lilac  
+#552332 154 2607 Red – VY DK  
+#948db3 155 902 Forget-me-not Blue  
+#a5b0d1 156 – Blue – MED  
+#b7c4e4 157 907 Blue – LT  
+#403d6d 158 2702 Blue – DK  
+#c1c9d9 159 901 Petrol Blue – LT  
+#8293b3 160 – Petrol Blue – MED  
+#5c6694 161 – Petrol Blue – DK  
+#c7e2ef 162 908 Baby Blue – LT  
+#559a6e 163 1703 Green  
+#b6d4a3 164 1209 Green – LT  
+#eff39d 165 1414 Green – BRIGHT  
+#ced129 166 1308, 2703 Lime Green  
+#ac8d3e 167 2104 Khaki Brown  
+#c7cdce 168 – Silver Gray  
+#7f8887 169 – Pewter Gray  
+#9f48b2 208 804 Lavender – VY DK  
+#bf74ca 209 803 Lavender – DK  
+#d095e4 210 802 Lavender – MED  
+#deb3eb 211 801 Lavender – LT  
+#912934 221 811 Shell Pink – VY DK  
+#c35c76 223 812 Shell Pink – LT  
+#e1949d 224 808 Shell Pink – VY LT  
+#f3c6d0 225 814 Shell Pink – ULT VY LT  
+#cf5b52        
+#793022 300 2304, 2005, 2602 Mahogany – VY DK  
+#af4c21 301 2306 Mahogany – MED  
+#be0f2b 304 0511, 0508 Red – MED  
+#e5cf07 307 104 Lemon  
+#ce1d53 309 0104, 0507 Rose – DK  
+#2a2628 310 2400, black Black  
+#3a416b 311 1006 Blue – MED  
+#42548b 312 1005 Baby Blue – VY DK  
+#914059 315 810 Antique Mauve – MED DK  
+#c76b9d 316 809 Antique Mauve – MED  
+#67606f 317 1714 Pewter Gray  
+#9d97ac 318 1802 Steel Gray – LT  
+#324d34 319 1313 Pistachio Green – VY DK  
+#63885d 320 1311 Pistachio Green – MED  
+#ca0520 321 0507, 0510 Red  
+#5e77b5 322 1004 Baby Blue  
+#c8103a 326 508 Rose – VY DK  
+#7c2f77 327 805 Violet  
+#7441a9 333 903 Blue Violet – VY DK  
+#6e88b9 334 1003 Baby Blue – MED  
+#ea4480 335 506 Rose  
+#3b3760 336 1006, 1007 Blue  
+#9981d4 340 902 Blue Violet – MED  
+#a4a3d6 341 901 Blue Violet – LT  
+#d82432 347 407 Salmon – VY DK  
+#ce082b 349 212 Coral – DK  
+#e94241 350 213 Coral – MED  
+#f15d5b 351 0214, 0301 Coral  
+#f59089 352 303 Coral – LT  
+#f6bbb0 353 304 Peach  
+#ae3030 355 401 Terra Cotta – DK  
+#d37863 356 402 Terra Cotta – MED  
+#4e744d 367 1312 Pistachio Green – DK  
+#87a676 368 1310 Pistachio Green – LT  
+#b6d0a3 369 1309 Pistachio Green – VY LT  
+#9c7f48 370 2112, 2110 Mustard – MED  
+#9c824a 371 2111 Mustard  
+#af9b67 372 2110 Mustard – LT  
+#93351c 400 2304, 2305 Mahogany – DK  
+#eb8a5f 402 2307, 2301 Mahogany – VY LT  
+#c77c76 407 2312, 2601 Desert Sand – DK  
+#56525b 413 1714 Pewter Gray – DK  
+#7c7286 414 1801 Steel Gray – DK  
+#b4afc1 415 – Pearl Gray  
+#a26436 420 2104, 2105 Hazelnut Brown – DK  
+#d0a064 422 2102 Hazelnut Brown – LT  
+#7d3f2e 433 2008 Brown – MED  
+#9e5130 434 2009 Brown – LT  
+#b96e37 435 2010 Brown – VY LT  
+#d08c54 436 2011 Tan  
+#da9f6c 437 2012 Tan – LT  
+#e1b507 444 106 Lemon – DK  
+#e7e859 445 0103, 0102 Lemon – LT  
+#93747d 451 1808 Shell Gray – DK  
+#b695a2 452 1807, 1803 Shell Gray – MED  
+#cdb7ba 453 1806, 1803 Shell Gray – LT  
+#56642a 469 1504 Avocado Green  
+#74852c 470 1502 Avocado Green – LT  
+#848f48 471 1501 Avocado Green – VY LT  
+#aeb960 472 1414 Avocado Green – ULT LT  
+#b80f28 498 509 Red – DK  
+#30433a 500 1705 Blue Green – VY DK  
+#4c6b5f 501 1704 Blue Green – DK  
+#688b7c 502 1703 Blue Green  
+#87ab9f 503 1702 Blue Green – MED  
+#b3d1c1 504 1701, 1101 Blue Green – VY LT  
+#328060 505 1205 Grass Green – DK  
+#4c6ea3 517 1107 Wedgewood – DK  
+#689ab3 518 1106 Wedgewood – LT  
+#91b9d2 519 1105, 1002 Sky Blue  
+#4a5b45 520 2603 Fern Green – DK  
+#818c73 522 1512 Fern Green  
+#969c81 523 1512 Fern Green – LT  
+#a1a487 524 1511 Fern Green – VY LT  
+#5d5657 535 1809, 1714 Ash Gray – VY LT  
+#e5c5bc 543 1909 Beige Brown – ULT VY LT  
+#601961 550 714 Violet – VY DK  
+#96379d 552 713 Violet – MED  
+#aa4eb0 553 712 Violet  
+#d487d2 554 711 Violet – LT  
+#3b6b55 561 1205, 1704 Jade – VY DK  
+#5a9465 562 1206 Jade – MED  
+#87c193 563 1207 Jade – LT  
+#a0d1a6 564 1208 Jade – VY LT  
+#5c6326 580 1503 Moss Green – DK  
+#7b892b 581 1502 Moss Green  
+#71a7ad 597 1110 Turquoise  
+#97c6c5 598 1014, 1111 Turquoise – LT  
+#d10658 600 507 Cranberry – VY DK  
+#e1076d 601 610 Cranberry – DK  
+#ea2084 602 0611, 0703 Cranberry – MED  
+#f14ca3 603 701 Cranberry  
+#f277bf 604 0606, 0614 Cranberry – LT  
+#f599d5 605 613 Cranberry – VY LT  
+#e1020e 606 209 Orange-red – BRIGHT  
+#f20528 608 205 Orange – BRIGHT  
+#725640 610 2106 Drab Brown – DK  
+#8f6a4e 611 1903, 2107 Drab Brown  
+#ae8d64 612 2108 Drab Brown – LT  
+#cfb8a0 613 1902, 2109 Drab Brown – VY LT  
+#92453e 632 2311 Desert Sand – ULT VY DK  
+#8b715a 640 1813 Beige Gray – VY DK  
+#a08b74 642 1903 Beige Gray – DK  
+#cbbaa5 644 1814 Beige Gray – MED  
+#6f6460 645 1811 Beaver Gray – VY DK  
+#7d7572 646 1812 Beaver Gray – DK  
+#999185 647 1813 Beaver Gray – MED  
+#b2aaa4 648 1814 Beaver Gray – LT  
+#e60519 666 0210, 0411 Red – BRIGHT  
+#e6b76d 676 2208 Old Gold – LT  
+#ecd69d 677 2207 Old Gold – VY LT  
+#b27532 680 2210 Old Gold – DK  
+#096923 699 2704 Green  
+#21802b 700 1304 Green – BRIGHT  
+#318c2e 701 1305 Green – LT  
+#4a9c2f 702 1306 Kelly Green  
+#6cb138 703 1307 Chartreuse  
+#80b82b 704 1308 Chartreuse – BRIGHT  
+#f0e4d5 712 2101 Cream  
+#c51575 718 707 Plum  
+#de3c14 720 309 Orange Spice – DK  
+#ee542a 721 0308, 0311 Orange Spice – MED  
+#f47b53 722 307 Orange Spice – LT  
+#eaad20 725 0106, 0109 Topaz  
+#f1c71c 726 108 Topaz – LT  
+#efdb5e 727 0102, 0110 Topaz – VY LT  
+#efc11a 728 2509 Golden Yellow  
+#cd8f48 729 2204, 2209 Old Gold – MED  
+#6e5a1c 730 1614 Olive Green – VY DK  
+#816e16 731 1612 Olive Green – DK  
+#7d6914 732 1612 Olive Green  
+#a28c22 733 1611 Olive Green – MED  
+#b5a03f 734 1610 Olive Green – LT  
+#d6ab84 738 2012, 2013 Tan – VY LT  
+#e6c7a9 739 2001, 2404 Tan – ULT VY LT  
+#eac007 740 202 Tangerine  
+#f26a06 741 0201, 0114, 0203 Tangerine – MED  
+#f38b17 742 114 Tangerine – LT  
+#f2b338 743 113 Yellow – MED  
+#f2c968 744 109 Yellow – PALE  
+#f0d38f 745 112 Yellow – LT PALE  
+#f6f2d2 746 101 Off White  
+#c6e9eb 747 1104 Sky Blue – VY LT  
+#f0b4a5 754 305 Peach – LT  
+#ea9788 758 403 Terra Cotta – VY LT  
+#f47a8f 760 405 Salmon  
+#f49fb0 761 404 Salmon – LT  
+#d7d3e2 762 1804 Pearl Gray – VY LT  
+#b9d395 772 1604 Yellow Green – VY LT  
+#c6d6e4 775 1001 Baby Blue – VY LT  
+#f4a0c1 776 503 Pink – MED  
+#810b28 777 508 Red – DEEP  
+#de9fb4 778 808 Antique Mauve – VY LT  
+#604944 779 – Brown  
+#a24b21 780 2214 Topaz – ULT VY DK  
+#b46411 781 2104, 2209 Topaz – VY DK  
+#bc6c0e 782 2210 Topaz – DK  
+#cf7c21 783 2204, 2514 Topaz – MED  
+#472f7a 791 904 Cornflower Blue – VY DK  
+#5e4d9e 792 905 Cornflower Blue – DK  
+#7777b1 793 906 Cornflower Blue – MED  
+#929fcc 794 0907, 1003 Cornflower Blue – LT  
+#382d84 796 913 Royal Blue – DK  
+#484396 797 912 Royal Blue  
+#5261b7 798 911 Delft Blue – DK  
+#798dc9 799 910 Delft Blue – MED  
+#a6bfdf 800 908 Delft Blue – PALE  
+#753d2f 801 2007 Coffee Brown – DK  
+#1e4669 803 – Blue – DEEP  
+#5785a5 806 1107 Peacock Blue – DK  
+#65a0ad 807 1105 Peacock Blue  
+#8e9ed8 809 909 Delft Blue  
+#7fa3c9 813 1013, 1711 Blue – LT  
+#8c1c32 814 0514, 2608 Garnet – DK  
+#9f1c2a 815 0513, 2502 Garnet – MED  
+#ad2131 816 512 Garnet  
+#c3091c 817 211 Coral Red – VY DK  
+#f7ccdf 818 502 Baby Pink  
+#f6dfe8 819 501 Baby Pink – LT  
+#302278 820 904 Royal Blue – VY DK  
+#e2d2bd 822 – Beige Gray – LT  
+#322b45 823 1008 Blue – DK  
+#3e4f90 824 1010 Blue – VY DK  
+#4561a1 825 1011 Blue – DK  
+#5d81b8 826 1012 Blue – MED  
+#a5c4e0 827 1002 Blue – VY LT  
+#bad6e0 828 1014 Blue – ULT VY LT  
+#6f4826 829 2113, 2114 Golden Olive – VY DK  
+#7a5126 830 2114, 2112 Golden Olive – DK  
+#8b6624 831 2201 Golden Olive – MED  
+#a47a25 832 2202 Golden Olive  
+#b18c37 833 2202 Golden Olive – LT  
+#c7a54f 834 2206 Golden Olive – VY LT  
+#5f3a34 838 1914 Beige Brown – VY DK  
+#6d453d 839 1913 Beige Brown – DK  
+#93685b 840 1912 Beige Brown – MED  
+#ab8278 841 1911 Beige Brown – LT  
+#ceada3 842 1907, 1910 Beige Brown – VY LT  
+#504745 844 1810 Beaver Gray – ULT DK  
+#745e27 869 2105, 2113 Hazelnut Brown – VY DK  
+#254027 890 1314 Pistachio Green – ULT DK  
+#f20f5b 891 412 Carnation – DK  
+#f52c6f 892 411 Carnation – MED  
+#f54389 893 0411, 0413 Carnation – LT  
+#f66dae 894 408 Carnation – VY LT  
+#334b2e 895 1405, 1314 Hunter Green – VY DK  
+#65392f 898 1914, 2007 Coffee Brown – VY DK  
+#ee5998 899 0414, 0609 Rose – MED  
+#c81627 900 208 Burnt Orange – DK  
+#812235 902 0601, 2501, 2607 Garnet – VY DK  
+#406427 904 1413 Parrot Green – VY DK  
+#4a7b1a 905 1412 Parrot Green – DK  
+#519608 906 1411 Parrot Green – MED  
+#7cac0d 907 1410 Parrot Green – LT  
+#097524 909 1303 Emerald Green – VY DK  
+#15882c 910 1301, 1302 Emerald Green – DK  
+#319d3f 911 1214 Emerald Green – MED  
+#53b361 912 1213 Emerald Green – LT  
+#6bbf6e 913 1212 Nile Green – MED  
+#9b104b 915 705 Plum – DK  
+#b41f6e 917 706 Plum – MED  
+#a33225 918 314 Red Copper – DK  
+#b0311c 919 313 Red Copper  
+#b83a20 920 312 Copper – MED  
+#d04f27 921 2306 Copper  
+#e76735 922 310 Copper – LT  
+#43545b 924 1706 Gray Green – VY DK  
+#7e8c91 926 1707 Gray Green – MED  
+#a3b1b1 927 1708 Gray Green – LT  
+#bbc1c2 928 1709 Gray Green – VY LT  
+#46516c 930 1712 Antique Blue – DK  
+#687996 931 1711 Antique Blue – MED  
+#8d9eb8 932 1710 Antique Blue – LT  
+#38382c 934 1506, 1810 Avocado Green – BLACK  
+#434734 935 1508 Avocado Green – DK  
+#4b4e2d 936 1505 Avocado Green – VY DK  
+#4b5d28 937 1507 Avocado Green – MED  
+#54322f 938 2005 Coffee Brown – ULT DK  
+#32263b 939 1009 Blue – VY DK  
+#26a566 943 1203 Aquamarine – MED  
+#efb499 945 1910, 2313 Tawny  
+#e71813 946 0206, 0207 Burnt Orange – MED  
+#ea0d23 947 205 Burnt Orange  
+#f3d1c8 948 306 Peach – VY LT  
+#ebb8ab 950 2309 Desert Sand – LT  
+#f1cab6 951 2308 Tawny – LT  
+#83cb7f 954 1211 Nile Green  
+#a7e2a0 955 1210 Nile Green – LT  
+#f52c8b 956 0413, 0611 Geranium  
+#f87dbe 957 612 Geranium – PALE  
+#4fbb8e 958 1114 Seagreen – DK  
+#67c7a1 959 1113 Seagreen – MED  
+#e94b87 961 506 Dusty Rose – DK  
+#f064a1 962 0505, 0609 Dusty Rose – MED  
+#f6b9dc 963 502 Dusty Rose – ULT VY LT  
+#97e0c7 964 1112 Seagreen – LT  
+#98c69a 966 1209 Baby Green – MED  
+#ffc9b4 967 – Peach – LT  
+#f4450a 970 204 Pumpkin – LT  
+#fa8500 971 202 Pumpkin  
+#ec9206 972 0107, 2513 Canary – DEEP  
+#eac007 973 0105, 0106 Canary – BRIGHT  
+#8d3d28 975 2303, 2602 Golden Brown – DK  
+#cb6a2c 976 2302 Golden Brown – MED  
+#d88241 977 2302 Golden Brown – LT  
+#355e2f 986 1312, 1404 Forest Green – VY DK  
+#4f713d 987 1403 Forest Green – DK  
+#658944 988 1402 Forest Green – MED  
+#739953 989 1401 Forest Green  
+#2f7a5b 991 1204 Aquamarine – DK  
+#5ead88 992 1202 Aquamarine – LT  
+#74c099 993 1201 Aquamarine – VY LT  
+#106cbe 995 1102 Electric Blue – DK  
+#4ba6e7 996 1103 Electric Blue – MED  
+#726132 3011 1507 Khaki Green – DK  
+#8f7c40 3012 1605 Khaki Green – MED  
+#aca168 3013 1511 Khaki Green – LT  
+#574239 3021 1811, 1904 Brown Gray – VY DK  
+#8e8271 3022 1812 Brown Gray – MED  
+#ac9d8d 3023 1902 Brown Gray – LT  
+#c3beba 3024 1814, 1901 Brown Gray – VY LT  
+#533833 3031 2003 Mocha Brown – VY DK  
+#a3856b 3032 2002 Mocha Brown – MED  
+#dcc5b9 3033 1907, 1908, 2001 Mocha Brown – VY LT  
+#90637e 3041 806 Antique Violet – MED  
+#b58eaf 3042 0807, 2612 Antique Violet – LT  
+#bb8b58 3045 2103 Yellow Beige – DK  
+#d1b26c 3046 2206 Yellow Beige – MED  
+#e4d496 3047 2205 Yellow Beige – LT  
+#5c5a35 3051 1508 Green Gray – DK  
+#808459 3052 1513 Green Gray – MED  
+#969969 3053 1510 Green Gray  
+#cf806c 3064 – Desert Sand  
+#cfcec7 3072 1805 Beaver Gray – VY LT  
+#ece38c 3078 102 Golden Yellow – VY LT  
+#a1b8dd 3325 909 Baby Blue – LT  
+#f38fb6 3326 0504, 0813 Rose – LT  
+#df4655 3328 406 Salmon – DK  
+#f4504d 3340 301 Apricot – MED  
+#f47c7f 3341 302 Apricot  
+#3d552c 3345 1406 Hunter Green – DK  
+#5d743a 3346 1407 Hunter Green  
+#6c8546 3347 1408 Yellow Green – MED  
+#9eb260 3348 1409, 1604 Yellow Green – LT  
+#cf2d6a 3350 603 Dusty Rose – ULT DK  
+#ec8ab7 3354 0606, 0607 Dusty Rose – LT  
+#525d41 3362 1601, 2603 Pine Green – DK  
+#697e59 3363 1602 Pine Green – MED  
+#8a9762 3364 1509 Pine Green  
+#392f30 3371 2004 Black Brown  
+#d73f97 3607 708 Plum – LT  
+#ef7ac7 3608 709 Plum – VY LT  
+#f298db 3609 710 Plum – ULT LT  
+#9e2a5b 3685 0602, 2609 Mauve – VY DK  
+#ca407d 3687 0604, 0605 Mauve  
+#f1a2cb 3688 605 Mauve – MED  
+#f1a2cb 3689 607 Mauve – LT  
+#f0325d 3705 410 Melon – DK  
+#f8538b 3706 409 Melon – MED  
+#c3091c 3708 408 Melon – LT  
+#eb5f6e 3712 0405, 0406 Salmon – MED  
+#f6bbcd 3713 502 Salmon – VY LT  
+#f491c1 3716 0606, 0607 Dusty Rose – VY LT  
+#a63a49 3721 810 Shell Pink – DK  
+#b74e62 3722 812 Shell Pink – MED  
+#9f5069 3726 810 Antique Mauve – DK  
+#d78cb1 3727 2610 Antique Mauve – LT  
+#d94382 3731 506 Dusty Rose – VY DK  
+#eb6a9f 3733 813 Dusty Rose  
+#7d4e63 3740 0806, 2614 Antique Violet – DK  
+#ceb3cf 3743 2611 Antique Violet – VY LT  
+#815cbb 3746 – Blue Violet – DK  
+#c6c1e5 3747 901 Blue Violet – VY LT  
+#384361 3750 1712 Antique Blue – VY DK  
+#a9bad1 3752 1001 Antique Blue – VY LT  
+#bfcee0 3753 1001 Antique Blue – ULT VY LT  
+#89a6cf 3755 909 Baby Blue (?)  
+#dce4ea 3756 2504 Baby Blue  
+#5a86ab 3760 1107 Wedgewood – MED  
+#acd3de 3761 1014 Sky Blue – LT  
+#3c6d8e 3765 2506 Peacock Blue – VY DK  
+#87bbc6 3766 1109 Peacock Blue – LT  
+#5f7378 3768 2508 Gray Green – DK  
+#f6e0cf 3770 2314 Tawny – VY LT  
+#f3b5a2 3771 2605 Peach – DK  
+#ae605a 3772 2601 Desert Sand – VY DK  
+#d48b80 3773 – Desert Sand – MED  
+#efc5b6 3774 1909 Desert Sand – VY LT  
+#d66834 3776 2011 Mahogany – LT  
+#9c232d 3777 2502 Terra Cotta – VY DK  
+#df746a 3778 0403, 2310 Terra Cotta – LT  
+#f0a8a1 3779 0305, 2605 Terra Cotta – ULT VY LT  
+#6d4a3c 3781 2106 Mocha Brown – DK  
+#b99a84 3782 1902, 1907 Mocha Brown – LT  
+#6c5a4f 3787 – Brown Gray – DK  
+#836353 3790 1903, 1905 Beige Gray – ULT DK  
+#4c4147 3799 1713 Pewter Gray – VY DK  
+#f31d48 3801 0213, 0411 Melon – VY DK  
+#7f2f4c 3802 2606 Antique Mauve – VY DK  
+#9e2a5b 3803 2609 Mauve – DK  
+#da0f74 3804 604 Cyclamen Pink – DK  
+#f34188 3805 702 Cyclamen Pink  
+#ec55a7 3806 701 Cyclamen Pink – LT  
+#6d66aa 3807 2702 Cornflower Blue  
+#2e5c5a 3808 2507 Turquoise – ULT VY DK  
+#3b727b 3809 2506 Turquoise – VY DK  
+#57909a 3810 1108 Turquoise – DK  
+#abd4d4 3811 1101 Turquoise – VY LT  
+#129a6a 3812 2705, 2706 Seagreen – VY DK  
+#9dbbb0 3813 1101 Blue Green – LT  
+#3e8e6c 3814 1203 Aquamarine  
+#568566 3815 1703 Celadon Green – DK  
+#709e85 3816 – Celadon Green  
+#95b8a4 3817 2604 Celadon Green – LT  
+#10612b 3818 1205, 2704 Emerald Green – ULT VY DK  
+#bfc118 3819 2303 Moss Green – LT  
+#dea11d 3820 2509 Straw – DK  
+#e4b435 3821 2510 Straw  
+#efca5b 3822 112 Straw – LT  
+#eedfae 3823 2205, 2511, 2512 Yellow – ULT PALE  
+#f58e91 3824 0304, 2503 Apricot – LT  
+#f39671 3825 307 Pumpkin – PALE  
+#b35428 3826 – Golden Brown  
+#e59b5e 3827 2013 Golden Brown – PALE  
+#bc834c 3828 2109 Hazelnut Brown  
+#ae6d2c 3829 2210 Old Gold – VY DK  
+#c5453f 3830 401 Terra Cotta  
+#cd244b 3831 610 Raspberry – DK  
+#e5346a 3832 506 Raspberry – MED  
+#ed598a 3833 414 Raspberry – LT  
+#783065 3834 805 Grape – DK  
+#9b508e 3835 – Grape – MED  
+#c077b2 3836 – Grape – LT  
+#8e32a4 3837 712 Lavender – ULT DK  
+#6d69bd 3838 905 Lavender Blue – DK  
+#8284ce 3839 902 Lavender Blue – MED  
+#a8b7e9 3840 907 Lavender Blue – LT  
+#b8cbe1 3841 1001 Baby Blue – PALE  
+#3c5786 3842 1010 Wedgewood – DK  
+#137fca 3843 1103 Electric Blue  
+#0792b2 3844 – Bright Turquoise – DK  
+#0bb6d3 3845 – Bright Turquoise – MED  
+#37c8e1 3846 – Bright Turquoise – LT  
+#2a6c59 3847 2507 Teal Green – DK  
+#448d7a 3848 1109 Teal Green – MED  
+#65a696 3849 1111 Teal Green – LT  
+#0d9450 3850 1203 Bright Green – DK  
+#4cb87e 3851 1202 Bright Green – LT  
+#cf880e 3852 2203 Straw – VY DK  
+#e16a25 3853 311 Autumn Gold – DK  
+#ee914a 3854 2307 Autumn Gold – MED  
+#f1c27d 3855 2012 Autumn Gold – LT  
+#eeac7f 3856 2309 Mahogany – ULT VY LT  
+#7d3230 3857 2311 Rosewood – DK  
+#944547 3858 810 Rosewood – MED  
+#c6726c 3859 2312 Rosewood – LT  
+#8b5b64 3860 806 Cocoa  
+#a77b85 3861 1912 Cocoa – LT  
+#885947 3862 1913 Mocha Beige – DK  
+#9f6d5c 3863 1912 Mocha Beige – MED  
+#c29789 3864 1906, 1910 Mocha Beige – LT  
+#f8f7f5 3865 2402 Winter White  
+#e5d7d1 3866 1908 Mocha Brown – ULT VY LT  
